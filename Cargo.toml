@@ -1,0 +1,8 @@
+[package]
+name = "rusty"
+version = "0.1.0"
+authors = ["Jeremiah Campbell <jeremiah.campbell@meantheory.com>"]
+
+[dependencies]
+github-rs = "0.6"
+serde_json = "1.0"
